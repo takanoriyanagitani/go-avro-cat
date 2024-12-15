@@ -1,0 +1,11 @@
+{
+	"type":"record",
+	"name":"sample_rec",
+	"fields":[
+	  {"name":"active", "type":"boolean"},
+	  {"name":"id", "type":"double"},
+	  {"name":"km", "type":"double"},
+	  {"name":"len", "type":"double"},
+	  {"name":"name", "type":"string"}
+	]
+}
